@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/callcentrum/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/callcentrum/static/js/main.81c52b11.chunk.js",
-    "main.js.map": "/callcentrum/static/js/main.81c52b11.chunk.js.map",
+    "main.js": "/callcentrum/static/js/main.ec8c364f.chunk.js",
+    "main.js.map": "/callcentrum/static/js/main.ec8c364f.chunk.js.map",
     "runtime-main.js": "/callcentrum/static/js/runtime-main.d3f06394.js",
     "runtime-main.js.map": "/callcentrum/static/js/runtime-main.d3f06394.js.map",
     "static/js/2.3e4ebfdd.chunk.js": "/callcentrum/static/js/2.3e4ebfdd.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d3f06394.js",
     "static/js/2.3e4ebfdd.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.81c52b11.chunk.js"
+    "static/js/main.ec8c364f.chunk.js"
   ]
 }
