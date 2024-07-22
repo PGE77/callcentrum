@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/callcentrum/static/css/main.f855e6bc.css",
-    "main.js": "/callcentrum/static/js/main.8941e865.js",
+    "main.js": "/callcentrum/static/js/main.d0136ced.js",
     "static/js/453.b379d35a.chunk.js": "/callcentrum/static/js/453.b379d35a.chunk.js",
     "static/media/logo.svg": "/callcentrum/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/callcentrum/index.html",
     "main.f855e6bc.css.map": "/callcentrum/static/css/main.f855e6bc.css.map",
-    "main.8941e865.js.map": "/callcentrum/static/js/main.8941e865.js.map",
+    "main.d0136ced.js.map": "/callcentrum/static/js/main.d0136ced.js.map",
     "453.b379d35a.chunk.js.map": "/callcentrum/static/js/453.b379d35a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8941e865.js"
+    "static/js/main.d0136ced.js"
   ]
 }
